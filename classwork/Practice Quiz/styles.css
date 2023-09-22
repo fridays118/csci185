@@ -1,0 +1,28 @@
+body{
+    margin: 0px;
+    background-color: aqua;
+}
+header{
+    width: 100%;
+    height: fit-content;
+    padding: 2px;
+    color: white;
+    background-color: black;
+    position: relative;
+}
+
+main{
+    background-color: aquamarine;
+    margin: 10px;
+}
+section{
+    border-color: black;
+    border-width: 2px;
+    border-radius: 2px;
+    border-style: dotted;
+}
+footer{
+    position: relative;
+    top: 60vh;
+    background-color: blanchedalmond;
+}
