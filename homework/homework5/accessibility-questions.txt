@@ -1,0 +1,11 @@
+Please answer the following accessibility questions:
+
+
+1. What accessibility corrections did you have to make?
+I had to add alt text to all the images,
+
+2. Do you think your website is usable if you turn off the CSS? Why or why not?
+Its usable but not ideal
+
+3. Is your site is tabbable? In other words, without the use of the mouse, are all the links and buttons accessible using the tab key?
+Most buttons, not the header or nav but yes to all images
